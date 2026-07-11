@@ -22,7 +22,7 @@ This project presents the initial mechanical design of a quadruped robot dog. Th
 
 ## Report
 
-- [Robot_Dog_Mechanical_Design_Report.pdf](Robot_Dog_Mechanical_Design_Report.pdf)
+- [Robot_Dog_Mechanical_Design_Report.pdf](Robot_Dog_Mechanical_Design_Report.pdf(2))
 
 ## Author
 
