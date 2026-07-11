@@ -22,8 +22,7 @@ This project presents the initial mechanical design of a quadruped robot dog. Th
 
 ## Report
 
-- [Robot_Dog_Mechanical_Design_Report.pdf](Robot_Dog_Mechanical_Design_Report.pdf(2))
-
+- [Robot_Dog_Mechanical_Design_Report (2).pdf](Robot_Dog_Mechanical_Design_Report%20(2).pdf)
 ## Author
 
 **Raghad Alhamad**
